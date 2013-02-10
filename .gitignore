@@ -1,0 +1,5 @@
+kernel.img
+kernel.elf
+*.o
+*.d
+
